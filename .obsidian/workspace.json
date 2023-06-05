@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "fbacb0ca83dafdb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0581096d68c8d73f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73a5ac6869593f8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dump.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "group": "5cba070e6755a66b"
+          }
+        ]
+      },
+      {
+        "id": "da57bdc1c2337f3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c4127b4edaf9f32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dump.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "group": "5cba070e6755a66b"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42e64cd59cd6841d",
+    "type": "split",
+    "children": [
+      {
+        "id": "af299588ddf0683a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d22d7cfb6a170df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "home",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07fa2d9ed8f3aa4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "997d419f2232b1ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf9dbe183caa0328",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dump.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9908d3c8dcdaf82d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ea48c2ffb6b7e16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5a7e32393a0a5df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe29d5122af2349c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f4fcb14b8e1c6ed9",
+            "type": "leaf",
+            "state": {
+              "type": "slidenote-pdfcanvas",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "7391e111657cbfee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d720deca708fc3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dump.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3d8c496038cca9d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dump.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "slide-note:Slide Note Block Generator": false
+    }
+  },
+  "active": "73a5ac6869593f8d",
+  "lastOpenFiles": [
+    "Semester-3",
+    "Uni Note/Linear Alg/LA - 1a/LA - 1.md",
+    "Dump.md",
+    "Uni Note/Linear Alg/Textbook.pdf",
+    "Uni Note/Linear Alg/Linear Algebra.md",
+    "Uni Note/CS163/CS163.md",
+    "Uni Note/CS163/CS163 - 2a.md",
+    "Uni Note/CS163/CS163 - 1b.md",
+    "Uni Note/CS163/CS163 - 1a/reverseEveryK code.md",
+    "Uni Note/Uni Note.md",
+    "Home.md",
+    "Advanced Uni Note/Advanced Uni Note.md",
+    "Advanced Uni Note/CS426 - Mobile/CS426 - Mobile.md",
+    "Advanced Uni Note/CS426 - Mobile/CS426 - 2a.md",
+    "Advanced Uni Note",
+    "Uni Note",
+    "Linear Alg/LA - Lab - 2/LA - Lab - 2.md",
+    "LA - 1.pdf",
+    "Linear Alg/LA - Lab - 2",
+    "Uni Note/CS163/CS163 - 1a/CS163 - 1a.md",
+    "Uni Note/CS163/CS163 - 1a/findX code.md",
+    "Advanced Uni Note/CS426 - Mobile",
+    "cling",
+    "Uni Note/CS163/CS163 - 1a/find1stX code.md",
+    "Uni Note/Linear Alg/LA - 1a/LA - Chap1.pdf",
+    "CS163/CS163 - 1a/reverseEveryK.canvas",
+    "abs.md",
+    "Uni Note/PH/PH - 1a/PH - 1a.md",
+    "Uni Note/PH/Chapter 1-Geometrical Optics-ST.pdf",
+    "Uni Note/Linear Alg/LA - 1a",
+    "Uni Note/PH/PH.md",
+    "PH/PH - 1a/Pasted image 20230601145725.jpg",
+    "PH/PH - 1a/Pasted image 20230601144537.jpg",
+    "PH/Pasted image 20230601145712.jpg",
+    "Untitled.canvas",
+    "aslkdfj.md",
+    "a.md",
+    "check.md",
+    "b.md",
+    "[CS163 - 1a - Attempt 1.md",
+    "Attemp.md"
+  ]
+}
