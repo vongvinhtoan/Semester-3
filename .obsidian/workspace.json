@@ -4,42 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "0581096d68c8d73f",
+        "id": "ac21ec6b4548ad6a",
         "type": "tabs",
         "children": [
           {
-            "id": "73a5ac6869593f8d",
+            "id": "c2e1930e8e5eb277",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dump.md",
+                "file": "Uni Note/PH/PH.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            },
-            "group": "5cba070e6755a66b"
-          }
-        ]
-      },
-      {
-        "id": "da57bdc1c2337f3b",
-        "type": "tabs",
-        "children": [
+            }
+          },
           {
-            "id": "2c4127b4edaf9f32",
+            "id": "886a86bfe87ff2bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dump.md",
-                "mode": "preview",
+                "file": "Uni Note/PH/PH - 1b.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            },
-            "group": "5cba070e6755a66b"
+            }
+          },
+          {
+            "id": "8082d8616068ee85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uni Note/PH/PH - 1a.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c9f4a2122c34f7f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92d51e94240f5be3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Uni Note/PH/Chapter 1-Geometrical Optics-ST.pdf"
+              }
+            }
           }
         ]
       }
@@ -60,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "home",
+                "query": "file: LA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dump.md"
+                "file": "Uni Note/PH/PH - 1b.md"
               }
             }
           }
@@ -149,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dump.md",
+                "file": "Uni Note/PH/PH - 1b.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dump.md",
+                "file": "Uni Note/PH/PH - 1b.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,20 +211,25 @@
       "slide-note:Slide Note Block Generator": false
     }
   },
-  "active": "73a5ac6869593f8d",
+  "active": "886a86bfe87ff2bb",
   "lastOpenFiles": [
-    "Semester-3",
-    "Uni Note/Linear Alg/LA - 1a/LA - 1.md",
+    "Uni Note/PH/Chapter 1-Geometrical Optics-ST.pdf",
+    "Uni Note/PH/PH - 1b.md",
+    "Uni Note/PH/PH - 1a.md",
+    "Uni Note/PH/PH.md",
     "Dump.md",
     "Uni Note/Linear Alg/Textbook.pdf",
     "Uni Note/Linear Alg/Linear Algebra.md",
+    "LA - Lab - 2.md",
+    "Advanced Uni Note/Advanced Uni Note.md",
+    "Uni Note/Linear Alg/LA - 1a/LA - 1.md",
+    "Semester-3",
     "Uni Note/CS163/CS163.md",
     "Uni Note/CS163/CS163 - 2a.md",
     "Uni Note/CS163/CS163 - 1b.md",
     "Uni Note/CS163/CS163 - 1a/reverseEveryK code.md",
     "Uni Note/Uni Note.md",
     "Home.md",
-    "Advanced Uni Note/Advanced Uni Note.md",
     "Advanced Uni Note/CS426 - Mobile/CS426 - Mobile.md",
     "Advanced Uni Note/CS426 - Mobile/CS426 - 2a.md",
     "Advanced Uni Note",
@@ -218,10 +245,6 @@
     "Uni Note/Linear Alg/LA - 1a/LA - Chap1.pdf",
     "CS163/CS163 - 1a/reverseEveryK.canvas",
     "abs.md",
-    "Uni Note/PH/PH - 1a/PH - 1a.md",
-    "Uni Note/PH/Chapter 1-Geometrical Optics-ST.pdf",
-    "Uni Note/Linear Alg/LA - 1a",
-    "Uni Note/PH/PH.md",
     "PH/PH - 1a/Pasted image 20230601145725.jpg",
     "PH/PH - 1a/Pasted image 20230601144537.jpg",
     "PH/Pasted image 20230601145712.jpg",
@@ -229,8 +252,6 @@
     "aslkdfj.md",
     "a.md",
     "check.md",
-    "b.md",
-    "[CS163 - 1a - Attempt 1.md",
-    "Attemp.md"
+    "b.md"
   ]
 }
