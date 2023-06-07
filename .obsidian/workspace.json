@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dump.md",
+                "file": "Uni Note/CS163/CS163 - 2b/CS163 - 2b.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,8 +33,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dump.md",
-                "mode": "preview",
+                "file": "Uni Note/CS163/CS163 - 2b/CS163 - 2b.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dump.md"
+                "file": "Uni Note/CS163/CS163 - 2b/CS163 - 2b.md"
               }
             }
           }
@@ -107,6 +107,7 @@
       {
         "id": "7ea48c2ffb6b7e16",
         "type": "tabs",
+        "dimension": 68.9892051030422,
         "children": [
           {
             "id": "a5a7e32393a0a5df",
@@ -130,7 +131,7 @@
             }
           },
           {
-            "id": "f4fcb14b8e1c6ed9",
+            "id": "d185e4cf4e4f402b",
             "type": "leaf",
             "state": {
               "type": "slidenote-pdfcanvas",
@@ -142,6 +143,7 @@
       {
         "id": "7391e111657cbfee",
         "type": "tabs",
+        "dimension": 31.0107948969578,
         "children": [
           {
             "id": "6d720deca708fc3b",
@@ -149,8 +151,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dump.md",
-                "collapseAll": false,
+                "file": "Uni Note/CS163/CS163 - 2b/CS163 - 2b.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -166,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dump.md",
+                "file": "Uni Note/CS163/CS163 - 2b/CS163 - 2b.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,46 +193,47 @@
   },
   "active": "73a5ac6869593f8d",
   "lastOpenFiles": [
-    "Semester-3",
-    "Uni Note/Linear Alg/LA - 1a/LA - 1.md",
-    "Dump.md",
-    "Uni Note/Linear Alg/Textbook.pdf",
-    "Uni Note/Linear Alg/Linear Algebra.md",
+    "Uni Note/CS163/CS163 - 2b/Implement Binary Search Tree.md",
+    "Uni Note/CS163/CS163 - 2b/CS163 - 2b.md",
+    "Uni Note/CS163/CS163 - 2b/Pic_1.jpg.crdownload",
     "Uni Note/CS163/CS163.md",
+    "Uni Note/PH/PH - 1a/PH - 1a.md",
+    "Uni Note/PH/Chapter 1-Geometrical Optics-ST.pdf",
+    "Uni Note/CS163/CS163 - 1a/CS163 - 1a.md",
     "Uni Note/CS163/CS163 - 2a.md",
-    "Uni Note/CS163/CS163 - 1b.md",
+    "Uni Note/CS163/CS163 - 2b/Pic_1.jpg",
+    "Uni 1.md",
+    "Uni.md",
+    "().md",
+    "Uni Note/PH/PH.md",
     "Uni Note/CS163/CS163 - 1a/reverseEveryK code.md",
-    "Uni Note/Uni Note.md",
-    "Home.md",
-    "Advanced Uni Note/Advanced Uni Note.md",
-    "Advanced Uni Note/CS426 - Mobile/CS426 - Mobile.md",
+    "Uni Note/CS163/CS163 - 1a/findX code.md",
+    "Uni Note/CS163/CS163 - 2b/Untitled.canvas",
+    "Uni Note/CS163/CS163 - 1a/find1stX code.md",
+    "Uni Note/CS163/CS163 - 2b",
+    "Uni Note/Linear Alg/LA - 1a/LA - 1.md",
+    "Uni Note/Linear Alg/Linear Algebra.md",
+    "Uni Note/CS163/CS163 - 1b.md",
     "Advanced Uni Note/CS426 - Mobile/CS426 - 2a.md",
+    "Advanced Uni Note/CS426 - Mobile/CS426 - Mobile.md",
+    "Dump.md",
+    "Uni Note/Uni Note.md",
+    "Advanced Uni Note/Advanced Uni Note.md",
+    "Semester-3",
+    "Uni Note/Linear Alg/Textbook.pdf",
+    "Home.md",
     "Advanced Uni Note",
     "Uni Note",
     "Linear Alg/LA - Lab - 2/LA - Lab - 2.md",
     "LA - 1.pdf",
     "Linear Alg/LA - Lab - 2",
-    "Uni Note/CS163/CS163 - 1a/CS163 - 1a.md",
-    "Uni Note/CS163/CS163 - 1a/findX code.md",
     "Advanced Uni Note/CS426 - Mobile",
-    "cling",
-    "Uni Note/CS163/CS163 - 1a/find1stX code.md",
-    "Uni Note/Linear Alg/LA - 1a/LA - Chap1.pdf",
     "CS163/CS163 - 1a/reverseEveryK.canvas",
     "abs.md",
-    "Uni Note/PH/PH - 1a/PH - 1a.md",
-    "Uni Note/PH/Chapter 1-Geometrical Optics-ST.pdf",
-    "Uni Note/Linear Alg/LA - 1a",
-    "Uni Note/PH/PH.md",
     "PH/PH - 1a/Pasted image 20230601145725.jpg",
     "PH/PH - 1a/Pasted image 20230601144537.jpg",
     "PH/Pasted image 20230601145712.jpg",
     "Untitled.canvas",
-    "aslkdfj.md",
-    "a.md",
-    "check.md",
-    "b.md",
-    "[CS163 - 1a - Attempt 1.md",
-    "Attemp.md"
+    "aslkdfj.md"
   ]
 }
