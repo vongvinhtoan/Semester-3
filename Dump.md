@@ -63,3 +63,7 @@ R_3=R_3+6R_2
 \end{bmatrix}\\
 \end{flalign*}
 $$
+
+$$
+A=\begin{bmatrix}1 & 2 & 3 & 4 \\ a-1 & a^2-3 & sd & 90 \\ dfs\end{bmatrix}
+$$
